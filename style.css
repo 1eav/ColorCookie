@@ -1,0 +1,5 @@
+body { background: red; }
+button { padding: 1em; }
+[data-color="red"] { background: red; }
+[data-color="blue"] { background: blue; }
+[data-color="green"] { background: green; }
